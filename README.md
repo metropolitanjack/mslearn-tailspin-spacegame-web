@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/exotechnic/exo-test1/_apis/build/status/metropolitanjack.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/exotechnic/exo-test1/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
